@@ -2,10 +2,38 @@
 .zigzag {
     margin: 0;
     display: flex;
-    justify-content: center;
-    align-items: center;
+
 }
 .arrow{
     margin-left: 190px;
     margin-top: -40px
+}
+
+.input1 {
+    border: 1.5px solid ;
+    border-radius: 5px;
+    width: 250px;
+    height: 45px;
+}
+
+.input2 {
+    border: 1.5px solid;
+    border-radius: 5px;
+    width: 560px;
+    height: 45px;
+
+}
+
+.emptySpace {
+    padding-bottom: 30px;
+  
+}
+
+.submit1 {
+    background-color: #065FD4;
+    color: #fff;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 77px;
 }
